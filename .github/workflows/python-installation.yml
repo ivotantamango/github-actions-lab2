@@ -1,6 +1,5 @@
 name: Installing Python
-
-on: 
+'on': 
   - push
 
 jobs:
